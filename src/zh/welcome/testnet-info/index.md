@@ -22,13 +22,13 @@ ao 测试网允许用户免费与 ao 计算机交互，共同测试和构建主�
 如果你已经装好 [NodeJS](https://nodejs.org)，你所需要做的就是安装 aos 并运行它：
 
 ```sh
-npm i -g https://get_ao.g8way.io
+$ npm i -g https://get_ao.g8way.io
 ```
 
 安装后，我们只需运行以下命令即可启动新的 aos 进程！
 
 ```sh
-aos
+$ aos
 ```
 
 ## 加入 ao 的原生社区聊天
