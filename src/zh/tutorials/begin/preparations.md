@@ -72,8 +72,6 @@ ao Operating System
 aos - 1.8.9
 2024 - Type ".exit" to exit
 aos process:  1xM1_lDZ428sJHpTX7rtcR6SrDubyRVO06JEEWs_eWo
-
-aos>
 ```
 
 让我们看一下运行 `aos` 后的初始打印输出：
